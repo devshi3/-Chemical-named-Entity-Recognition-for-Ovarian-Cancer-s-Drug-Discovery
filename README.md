@@ -19,6 +19,7 @@ train the suggested model on. Proposed research
 discussed methods to drug development in Ovarian
 cancer using Chemical Named Entity Recognition in
 this publication.
+
 Results: BiLSTM which stands for Bi-directional long
 short-term memory along with CRF, proposed research
 to present a Named Entity Recognition system for
